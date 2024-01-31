@@ -49,7 +49,8 @@ user the option to retry or initiate a password reset.
 ➢ Users with registered accounts have the privilege to participate in the game
 ➢ The game initiates only if the…
 ➢ A limit of six attempts is set for guessing each word and failure to do so results in a 
-pop-up revealing the word.
+pop-up revealing the word.![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/205a65e3-347e-4455-b925-a9129150f66c)
+
 ➢ The completion of the word puzzle game requires players to successfully find three 
 specified words.
 
@@ -64,6 +65,17 @@ contribute to a well-crafted web-based word puzzle game
 ![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/e33b1c5a-af66-4304-b0b9-cfd57b52763e)
 ![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/e83e4883-10df-40bf-8447-3f45c7514cac)
 ![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/4921501d-f1d9-43d0-997d-0eaa0aeb6dd2)
+![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/5a77399f-a61b-41e3-8805-eaf9d0b71338)
+![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/a8b9e603-d27a-4f67-bb6b-2d8ccd5479f8)
+![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/ec60d94c-595c-424a-80c3-e525bd4147ef)
+![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/339571e5-b42b-431e-b503-1a4104e3d295)
+![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/440da955-6c08-42e8-95ae-aefd5208a52a)
+
+
+
+
+
+
 
 
 
