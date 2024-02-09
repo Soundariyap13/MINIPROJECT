@@ -60,6 +60,11 @@ gaming experience. Its modular structure, user-friendly design, and efficient ba
 contribute to a well-crafted web-based word puzzle game
 
 
+
+
+
+
+
 ![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/65d931f7-b346-4142-b879-c8e3283eecae)
 ![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/372d0554-fc08-4c92-b856-bf78e0d34d14)
 ![image](https://github.com/Soundariyap13/MINIPROJECT/assets/138889419/e33b1c5a-af66-4304-b0b9-cfd57b52763e)
